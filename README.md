@@ -1,6 +1,10 @@
 
 
-<h1 align="left">My name is Oscar</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is Oscar</p>
 
 ###
 
@@ -39,12 +43,5 @@
 <img src="https://raw.githubusercontent.com/dev-OscarJcP/dev-OscarJcP/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</div>
 
 ###

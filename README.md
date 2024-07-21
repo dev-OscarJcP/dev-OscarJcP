@@ -1,5 +1,3 @@
-
-
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -12,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning JavaScript<br>I currently reside in Portugal and work as a teacher at SharkCoders. I am looking for a job opportunity where I can contribute to my learning and evolve as a programmer.</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning JavaScript</p>
 
 ###
 
@@ -40,8 +38,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/dev-OscarJcP/dev-OscarJcP/output/snake.svg" alt="Snake animation" />
+<br clear="both">
 
-###
+<img src="https://raw.githubusercontent.com/dev-OscarJcP/dev-OscarJcP/output/snake.svg" alt="Snake animation" />
 
 ###

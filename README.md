@@ -39,6 +39,7 @@
 ###
 
 <br clear="both">
+
 ###
 
 <img src="https://raw.githubusercontent.com/dev-OscarJcP/dev-OscarJcP/output/snake.svg" alt="Snake animation" />

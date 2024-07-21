@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning JavaScript</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning JavaScript<br>I currently reside in Portugal and work as a teacher at SharkCoders. I am looking for a job opportunity where I can contribute to my learning and evolve as a programmer.</p>
 
 ###
 

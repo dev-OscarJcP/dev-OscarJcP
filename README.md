@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning JavaScript</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently improving my spring boot skills<br>💻 BugCode developing community<br>👨‍🏫 
+I work teaching programming at Sharkcoder</p> 
 
 ###
 

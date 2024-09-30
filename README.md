@@ -11,7 +11,7 @@
 ###
 
 <p align="left">✨ Creating bugs since 2020<br>📚 I'm currently improving my spring boot skills<br>💻 BugCode developing community<br>👨‍🏫 
-I work teaching programming at Sharkcoder</p> 
+I work teaching programming at Sharkcoders</p> 
 
 ###
 

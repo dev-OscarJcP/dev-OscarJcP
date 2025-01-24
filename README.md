@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently improving my spring boot skills<br>💻 BugCode developing community<br>👨‍🏫 
+<p align="left">✨ Creating bugs since 2020<br>📚 Software Developer | .NET | C# | TypeScritp | Node.js<br>💻 BugCode developing community<br>👨‍🏫 
 I work teaching programming at Sharkcoders</p> 
 
 ###
